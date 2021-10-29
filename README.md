@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Nasci no Uruguai, aos 11 anos em 2010 me mudei para Santa Catarina- Brasil, onde adquiri uma paixão por tecnologia e criação de games, aos 13 anos comecei a aprender sobre informática, designer gráfico e criação de jogos, ao longo dos anos conquistei alguns conhecimentos nas área e novas habilidades, hoje sou Artista Digital, Editor de vídeos nas horas vagas, T.I, Gerente e Desenvolvedor de E-COMMERCE, Roteirista, Desenvolvedor de jogos e website, Designer Gráfico/Web/UI/UX e de Games, além abri duas empresas uma de Desenvolvimento de jogos Moontake Studios e a LLProducton onde trabalho como CEO e produtor, ambas com uma equipe extremamente profissional.
 
