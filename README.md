@@ -3,13 +3,13 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Nasci no Uruguai, aos 11 anos em 2010 me mudei para Santa Catarina- Brasil, onde adquiri uma paixão por tecnologia e criação de games, aos 13 anos comecei a aprender sobre informática, designer gráfico e criação de jogos, ao longo dos anos conquistei alguns conhecimentos nas área e novas habilidades, hoje sou Artista Digital, Editor de vídeos nas horas vagas, T.I, Gerente e Desenvolvedor de E-COMMERCE, Roteirista, Desenvolvedor de jogos e website, Designer Gráfico/Web/UI/UX e de Games, além abri duas empresas uma de Desenvolvimento de jogos Moontake Studios e a LLProducton onde trabalho como CEO e produtor, ambas com uma equipe extremamente profissional.
+- 🤔 &nbsp; Nasci no Uruguai, aos 11 anos em 2010 me mudei para Santa Catarina- Brasil, onde adquiri uma paixão por tecnologia e criação de games, aos 13 anos comecei a aprender sobre informática, designer gráfico e criação de jogos, ao longo dos anos conquistei alguns conhecimentos nas área e novas habilidades, hoje sou Artista Digital, Editor de vídeos nas horas vagas, T.I, Gerente e Desenvolvedor de E-COMMERCE, Roteirista, Desenvolvedor de jogos e website, Designer Gráfico/Web/UI/UX e de Games, além abri duas empresas uma de Desenvolvimento de jogos Moontake Studios e a Pixel1 onde trabalho como CEO e produtor, ambas com uma equipe extremamente profissional.
 
 Em conjunto com meu sócio abrimos uma e-commerce chamado Iconstyle, que reune diversos influenciadores famosos e venda de vestuário.
 - 
-- 💼 &nbsp; Trabalhando como **Artista, T.I, Dev, Designer Gráfico/Web/UI/UX/Game, Roteirista, CEO** na <a href="www.llproduction.com.br">LLPRODUCTION</a>
-- 💼 &nbsp; Trabalhando como **Desenvolvedor e Gerente de E-COMMERCE** na <a href="www.iconstyle.com.br">Iconstyle</a>
-- 💼 &nbsp; Trabalhando como **Invento na Hora** na <a href="www.inventonahora.com.br">Invento na Hora</a>
+- 💼 &nbsp; Trabalhando como **Artista, T.I, Dev, Designer Gráfico/Web/UI/UX/Game, Roteirista, CEO** na <a href="www.pixel1.com.br">Pixel1</a>
+- 💼 &nbsp; Trabalhando como **Desenvolvedor e CEO** na <a href="www.moontakestudios.com">MoonTake Studios</a>
+- 💼 &nbsp; Trabalhando como **Senior Software Developer** na <a href="www.howhow.com.br">HowHow</a>
 - 🌱 &nbsp; Aprendendo mais sobre **React**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
