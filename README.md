@@ -62,7 +62,7 @@ Em conjunto com meu sócio abrimos uma e-commerce chamado Iconstyle, que reune d
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Lucas López](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luscalopez/)](https://www.linkedin.com/in/luscalopez/N)
-[![Gmail Badge](https://img.shields.io/badge/-lopez@llproduction.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lopez@llproduction.com.br)](mailto:lopez@llproduction.com.br)
+[![Linkedin: Lucas López](https://img.shields.io/badge/-luscalopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luscalopez/)](https://www.linkedin.com/in/luscalopez/N)
+[![Gmail Badge](https://img.shields.io/badge/-lopez@pixel1.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lopez@pixel1.com.br)](mailto:lopez@pixel1.com.br)
 [![GitHub Lucas López]( https://img.shields.io/github/followers/luscalopez?label=follow&style=social)](https://github.com/luscalopez)
 [![Instagram: Lucas López]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luscaslopez)
