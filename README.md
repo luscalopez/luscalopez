@@ -3,7 +3,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Nasci no Uruguai, aos 11 anos em 2010 me mudei para Santa Catarina- Brasil, onde adquiri uma paixão por tecnologia e criação de games, aos 13 anos comecei a aprender sobre informática, designer gráfico e criação de jogos, ao longo dos anos conquistei alguns conhecimentos nas área e novas habilidades, hoje sou Artista Digital, Editor de vídeos nas horas vagas, T.I, Gerente e Desenvolvedor de E-COMMERCE, Roteirista, Desenvolvedor de jogos e website, Designer Gráfico/Web/UI/UX e de Games, além abri duas empresas uma de Desenvolvimento de jogos Moontake Studios e a Pixel1 onde trabalho como CEO e produtor, ambas com uma equipe extremamente profissional.
+- 🤔 &nbsp;Sou um profissional com habilidades e experiência em tecnologia e design. Nascido no Uruguai, mudei para Santa Catarina, Brasil com 11 anos, onde desenvolvi meu interesse por jogos e tecnologia. A partir dos 13 anos, comecei a aprender sobre design gráfico, Web, UI/UX e desenvolvimento de jogos. Com o tempo, adquiri habilidades como engenheiro de software, designer gráfico/web/UI/UX/de jogos, escritor, editor de vídeos e administração e gerência de empresas e lojas. Também sou roteirista e tive a oportunidade de ser CEO em duas empresas, Moontake Studios e Pixel1, onde trabalho em equipe em projetos de desenvolvimento e design de jogos. Estou sempre buscando aprender e me desenvolver mais e espero poder contribuir para o sucesso de qualquer equipe ou projeto onde eu esteja envolvido.
 
 Em conjunto com meu sócio abrimos uma e-commerce chamado Iconstyle, que reune diversos influenciadores famosos e venda de vestuário.
 - 
