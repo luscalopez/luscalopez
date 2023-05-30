@@ -3,13 +3,14 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp;Sou um profissional com habilidades e experiência em tecnologia e design. Nascido no Uruguai, mudei para Santa Catarina, Brasil com 11 anos, onde desenvolvi meu interesse por jogos e tecnologia. A partir dos 13 anos, comecei a aprender sobre design gráfico, Web, UI/UX e desenvolvimento de jogos. Com o tempo, adquiri habilidades como engenheiro de software, designer gráfico/web/UI/UX/de jogos, escritor, editor de vídeos e administração e gerência de empresas e lojas. Também sou roteirista e tive a oportunidade de ser CEO em duas empresas, Moontake Studios e Pixel1, onde trabalho em equipe em projetos de desenvolvimento e design de jogos. Estou sempre buscando aprender e me desenvolver mais e espero poder contribuir para o sucesso de qualquer equipe ou projeto onde eu esteja envolvido.
+- 🤔 Nasci no Uruguai e, aos 11 anos, me mudei para Santa Catarina, Brasil, foi nessa nova cidade que descobri minha paixão pela tecnologia e criação de jogos. 
+Aos 13 anos, ganhei meu primeiro computador e comecei a explorar o mundo de desenvolvimento web, do design gráfico e da criação de jogos.
 
-Em conjunto com meu sócio abrimos uma e-commerce chamado Iconstyle, que reune diversos influenciadores famosos e venda de vestuário.
+Ao longo dos anos, busquei e com prática adquiri conhecimento nessas áreas e me tornei um profissional multifacetado. 
+
+Hoje, após um longo periodo para ampliar ainda mais minhas habilidades e conhecimentos, aprendi diversas outras pfosissões relacionadas e posso atuar em várias etapas de um projeto do mais simples ao mais complexo, sou um desenvolvedor web full-stack, desenvolvedor de jogos e apps, Designer Gráfico e UI/UX, especialista em DevOp, desenvolvedor de jogos e websites, designer gráfico, web, UI/UX. Além disso, também sou roteirista e editor de vídeos caso aja necessidade.Adquiri conhecimentos em gerenciamento de projetos, administração, finanças e até mesmo na gestão de lojas. Estou constantemente buscando aprimoramento e atualização nas áreas em que atuo.
 - 
-- 💼 &nbsp; Trabalhando como **Artista, T.I, Dev, Designer Gráfico/Web/UI/UX/Game, Roteirista, CEO** na <a href="www.pixel1.com.br">Pixel1</a>
-- 💼 &nbsp; Trabalhando como **Desenvolvedor e CEO** na <a href="www.moontakestudios.com">MoonTake Studios</a>
-- 💼 &nbsp; Trabalhando como **Senior Software Developer** na <a href="www.howhow.com.br">HowHow</a>
+- 💼 &nbsp; Trabalhando como **Macgyver** na <a href="www.pixel1.com.br">Pixel1</a>
 - 🌱 &nbsp; Aprendendo mais sobre **React**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
