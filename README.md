@@ -7,9 +7,7 @@
 Aos 13 anos, ganhei meu primeiro computador e comecei a explorar o mundo de desenvolvimento web, do design gráfico e da criação de jogos.
 Ao longo dos anos, busquei e com prática adquiri conhecimento nessas áreas e me tornei um profissional multifacetado.
 
-Hoje, após um longo periodo para ampliar ainda mais minhas habilidades e conhecimentos, aprendi diversas outras pfosissões relacionadas e posso atuar em várias etapas de um projeto do mais simples ao mais complexo, sou um desenvolvedor web full-stack, desenvolvedor de jogos e apps, Designer Gráfico e UI/UX, especialista em DevOp, desenvolvedor de jogos e websites, designer gráfico, web, UI/UX. Além disso, também sou roteirista e editor de vídeos caso aja necessidade.
-
-Adquiri conhecimentos em gerenciamento de projetos, administração, finanças e até mesmo na gestão de lojas. Estou constantemente buscando aprimoramento e atualização nas áreas em que atuo.
+Hoje, após um longo periodo para ampliar ainda mais minhas habilidades e conhecimentos, aprendi diversas outras pfosissões relacionadas e posso atuar em várias etapas de um projeto do mais simples ao mais complexo, sou um desenvolvedor web full-stack, desenvolvedor de jogos e apps, Designer Gráfico e UI/UX, especialista em DevOp, desenvolvedor de jogos e websites, designer gráfico, web, UI/UX. Além disso, também sou roteirista e editor de vídeos caso aja necessidade. Adquiri conhecimentos em gerenciamento de projetos, administração, finanças e até mesmo na gestão de lojas. Estou constantemente buscando aprimoramento e atualização nas áreas em que atuo.
 - 
 - 💼 &nbsp; Trabalhando como **Macgyver** na <a href="www.pixel1.com.br">Pixel1</a>
 - 🌱 &nbsp; Aprendendo mais sobre **React**.
