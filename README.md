@@ -11,7 +11,7 @@
 - 
 - 💼 &nbsp; Trabalhando como **Macgyver** na <a href="www.pixel1.com.br">Pixel1</a>
 - 🌱 &nbsp; Aprendendo mais sobre **React**.
-
+- Maioria dos meus repositórios são privados.
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
