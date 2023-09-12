@@ -10,7 +10,7 @@
 - Adquiri conhecimentos em gerenciamento de projetos, administração, finanças e até mesmo na gestão de lojas. Estou constantemente buscando aprimoramento e atualização nas áreas em que atuo.
 - 
 - 💼 &nbsp; Trabalhando como **Macgyver** na <a href="www.pixel1.com.br">Pixel1</a>
-- 🌱 &nbsp; Aprendendo mais sobre **React**.
+- 🌱 &nbsp; Aprendendo mais sobre **Elixir**.
 - Maioria dos meus repositórios são privados.
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
