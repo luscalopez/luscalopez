@@ -53,13 +53,6 @@
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
-
-<a href="https://github.com/luscalopez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luscalopez&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Lucas López](https://img.shields.io/badge/-luscalopez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luscalopez/)](https://www.linkedin.com/in/luscalopez/N)
